@@ -1,1 +1,21 @@
+#body {
+    background-color: aqua;
+}
 
+
+/* #table {
+    background-color: rgb(83, 209, 10);
+} */
+
+.time {
+    background-color: orangered;
+}
+
+.table {
+    background-color: green;
+}
+
+.per {
+    background-color: rgb(72, 40, 145);
+    color: rgb(202, 202, 165);
+}
